@@ -4,15 +4,15 @@ Site desenvolvido com Html/Css e Javascript
 
 <p align="center">
  
-  <img src="./assets-readme/login_novo.png" alt="Página de Login" title="Trabalho de How IV - Univali">
+  <img src="./assets-readme/abre.png" alt="Página de abertura do site">
 </p>
 
 <p align="center">
-Página de abertura
-  <img src="./assets-readme/tela abertura.png" alt="Página Abertura" title="Trabalho de How IV - Univali">
+Sintomas
+  <img src="./assets-readme/sintomas.png" alt="Página sobre o sintomas">
 </p>
 
 <p align="center">
-Página de Cadastro de Livros
-  <img src="./assets-readme/cad_novo.png" alt="Página de Cadastro de Livros" title="Trabalho de How IV - Univali">
+Como lavar corretamente as mãos
+  <img src="./assets-readme/lavar.png" alt="Página sobre como lavar corretamente as mãos">
 </p>
