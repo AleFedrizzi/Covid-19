@@ -2,6 +2,8 @@
 
 Site desenvolvido com Html/Css e Javascript
 
+https://alefedrizzi.github.io/Covid-19/
+
 <p align="center">
  
   <img src="./assets-readme/abre.png" alt="Página de abertura do site">
